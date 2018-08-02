@@ -14,4 +14,9 @@ window.onload=function () {
             menu_drop[i].style.height=0;
         }
     }
+
+    //首页的轮播图
+    let img=document.querySelectorAll(".photo img");
+    console.log(img);
+
 }
